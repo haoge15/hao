@@ -82,4 +82,12 @@ document.cookie="popped=yes"
 //--> 
 
 </SCRIPT>
+response.redirect"login.asp"
+
+location.href="xx.asp"
+
+onClick="window.location='login.asp'"
+
+onClick="window.open('')"
+
 
